@@ -1,0 +1,25 @@
+{
+    "name": "SofTech INFO.",
+    "short_name": "SofTech",
+    "icons": [
+      {
+        "src": "./images/AppIcons/Assets.xcassets/AppIcon.appiconset/196.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "./images/AppIcons/Assets.xcassets/AppIcon.appiconset/512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],    
+    
+    "start_url": "http://127.0.0.1:5500/PI/mobile/",
+    "background_color": "#ffffff",
+    "theme_color": "#5c1c50",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
+  
